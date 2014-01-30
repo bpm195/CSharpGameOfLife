@@ -1,0 +1,7 @@
+c:\users\alfred\documents\visual studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\Alfred\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\GameOfLife.exe.config
+C:\Users\Alfred\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\GameOfLife.exe
+C:\Users\Alfred\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\GameOfLife.pdb
+C:\Users\Alfred\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\GameOfLife.exe
+C:\Users\Alfred\Documents\Visual Studio 2012\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\GameOfLife.pdb
+C:\development\CSharpGameOfLife\GameOfLife\ConsoleApplication1\bin\Debug\GameOfLife.exe.config
